@@ -19,6 +19,13 @@ Uma mini aplicação moderna para **monitoramento em tempo real** de preços da 
 
 ---
 
+## Deploy feito no netlify
+
+App em produção disponível no link
+https://silly-chebakia-68702f.netlify.app/
+
+---
+
 ## 🧠 Tecnologias
 
 - [React](https://react.dev/)
